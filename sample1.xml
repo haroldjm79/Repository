@@ -1,0 +1,294 @@
+<!-- Select table_to_xml('dkdailydfbnfl',true,false,'') -->
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<dkdailydfbnfl xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"">
+
+<row>
+  <date>2020-12-20</date>
+  <name>Derrick Henry</name>
+  <roster_position>RB/FLEX</roster_position>
+  <game_info>TEN</game_info>
+  <over_under>51.50</over_under>
+  <ppg>22.16</ppg>
+  <salary>9500</salary>
+  <value>75.96</value>
+  <projection>17.40</projection>
+</row>
+
+<row>
+  <date>2020-12-20</date>
+  <name>Dalvin Cook</name>
+  <roster_position>RB/FLEX</roster_position>
+  <game_info>MIN</game_info>
+  <over_under>47.00</over_under>
+  <ppg>26.53</ppg>
+  <salary>9000</salary>
+  <value>73.92</value>
+  <projection>16.46</projection>
+</row>
+
+<row>
+  <date>2020-12-20</date>
+  <name>Tyreek Hill</name>
+  <roster_position>WR/FLEX</roster_position>
+  <game_info>NO</game_info>
+  <over_under>51.50</over_under>
+  <ppg>23.85</ppg>
+  <salary>8800</salary>
+  <value>61.19</value>
+  <projection>14.26</projection>
+</row>
+
+<row>
+  <date>2020-12-20</date>
+  <name>Travis Kelce</name>
+  <roster_position>TE/FLEX</roster_position>
+  <game_info>NO</game_info>
+  <over_under>51.50</over_under>
+  <ppg>22.01</ppg>
+  <salary>8000</salary>
+  <value>65.01</value>
+  <projection>13.87</projection>
+</row>
+
+<row>
+  <date>2020-12-20</date>
+  <name>DeAndre Hopkins</name>
+  <roster_position>WR/FLEX</roster_position>
+  <game_info>ARI</game_info>
+  <over_under>49.50</over_under>
+  <ppg>19.73</ppg>
+  <salary>7900</salary>
+  <value>62.95</value>
+  <projection>14.90</projection>
+</row>
+
+<row>
+  <date>2020-12-20</date>
+  <name>A.J. Brown</name>
+  <roster_position>WR/FLEX</roster_position>
+  <game_info>TEN</game_info>
+  <over_under>51.50</over_under>
+  <ppg>18.43</ppg>
+  <salary>7600</salary>
+  <value>76.88</value>
+  <projection>17.00</projection>
+</row>
+
+<row>
+  <date>2020-12-20</date>
+  <name>Alvin Kamara</name>
+  <roster_position>RB/FLEX</roster_position>
+  <game_info>NO</game_info>
+  <over_under>51.50</over_under>
+  <ppg>23.55</ppg>
+  <salary>7400</salary>
+  <value>72.36</value>
+  <projection>16.63</projection>
+</row>
+
+<row>
+  <date>2020-12-20</date>
+  <name>Justin Jefferson</name>
+  <roster_position>WR/FLEX</roster_position>
+  <game_info>MIN</game_info>
+  <over_under>47.00</over_under>
+  <ppg>18.00</ppg>
+  <salary>7300</salary>
+  <value>65.75</value>
+  <projection>11.24</projection>
+</row>
+
+<row>
+  <date>2020-12-20</date>
+  <name>Jonathan Taylor</name>
+  <roster_position>RB/FLEX</roster_position>
+  <game_info>IND</game_info>
+  <over_under>51.00</over_under>
+  <ppg>15.21</ppg>
+  <salary>7200</salary>
+  <value>76.68</value>
+  <projection>11.46</projection>
+</row>
+
+<row>
+  <date>2020-12-20</date>
+  <name>Adam Thielen</name>
+  <roster_position>WR/FLEX</roster_position>
+  <game_info>MIN</game_info>
+  <over_under>47.00</over_under>
+  <ppg>18.38</ppg>
+  <salary>7100</salary>
+  <value>68.14</value>
+  <projection>11.92</projection>
+</row>
+
+<row>
+  <date>2020-12-20</date>
+  <name>Cooper Kupp</name>
+  <roster_position>WR/FLEX</roster_position>
+  <game_info>LAR</game_info>
+  <over_under>44.00</over_under>
+  <ppg>15.02</ppg>
+  <salary>7000</salary>
+  <value>64.31</value>
+  <projection>11.59</projection>
+</row>
+
+<row>
+  <date>2020-12-20</date>
+  <name>Robert Woods</name>
+  <roster_position>WR/FLEX</roster_position>
+  <game_info>LAR</game_info>
+  <over_under>44.00</over_under>
+  <ppg>16.46</ppg>
+  <salary>6800</salary>
+  <value>68.32</value>
+  <projection>13.50</projection>
+</row>
+
+<row>
+  <date>2020-12-20</date>
+  <name>Ryan Tannehill</name>
+  <roster_position>QB</roster_position>
+  <game_info>TEN</game_info>
+  <over_under>51.50</over_under>
+  <ppg>21.35</ppg>
+  <salary>6700</salary>
+  <value>106.49</value>
+  <projection>23.46</projection>
+</row>
+
+<row>
+  <date>2020-12-20</date>
+  <name>Mike Evans</name>
+  <roster_position>WR/FLEX</roster_position>
+  <game_info>ATL</game_info>
+  <over_under>50.50</over_under>
+  <ppg>14.61</ppg>
+  <salary>6500</salary>
+  <value>68.63</value>
+  <projection>9.34</projection>
+</row>
+
+<row>
+  <date>2020-12-20</date>
+  <name>Chris Godwin</name>
+  <roster_position>WR/FLEX</roster_position>
+  <game_info>ATL</game_info>
+  <over_under>50.50</over_under>
+  <ppg>14.19</ppg>
+  <salary>6200</salary>
+  <value>71.27</value>
+  <projection>9.39</projection>
+</row>
+
+<row>
+  <date>2020-12-20</date>
+  <name>Kyler Murray</name>
+  <roster_position>QB</roster_position>
+  <game_info>ARI</game_info>
+  <over_under>49.50</over_under>
+  <ppg>26.80</ppg>
+  <salary>7000</salary>
+  <value>95.43</value>
+  <projection>26.10</projection>
+</row>
+
+<row>
+  <date>2020-12-20</date>
+  <name>Ronald Jones II</name>
+  <roster_position>RB/FLEX</roster_position>
+  <game_info>ATL</game_info>
+  <over_under>50.50</over_under>
+  <ppg>14.35</ppg>
+  <salary>6000</salary>
+  <value>73.92</value>
+  <projection>9.86</projection>
+</row>
+
+<row>
+  <date>2020-12-20</date>
+  <name>Kirk Cousins</name>
+  <roster_position>QB</roster_position>
+  <game_info>MIN</game_info>
+  <over_under>47.00</over_under>
+  <ppg>19.84</ppg>
+  <salary>6100</salary>
+  <value>81.7</value>
+  <projection>15.55</projection>
+</row>
+
+<row>
+  <date>2020-12-20</date>
+  <name>Tom Brady</name>
+  <roster_position>QB</roster_position>
+  <game_info>ATL</game_info>
+  <over_under>50.50</over_under>
+  <ppg>21.41</ppg>
+  <salary>6600</salary>
+  <value>93.05</value>
+  <projection>16.12</projection>
+</row>
+
+<row>
+  <date>2020-12-20</date>
+  <name>Jared Goff</name>
+  <roster_position>QB</roster_position>
+  <game_info>LAR</game_info>
+  <over_under>44.00</over_under>
+  <ppg>19.08</ppg>
+  <salary>6300</salary>
+  <value>77.9</value>
+  <projection>17.84</projection>
+</row>
+
+<row>
+  <date>2020-12-20</date>
+  <name>Lamar Jackson</name>
+  <roster_position>QB</roster_position>
+  <game_info>BAL</game_info>
+  <over_under>47.50</over_under>
+  <ppg>22.84</ppg>
+  <salary>7500</salary>
+  <value>83.79</value>
+  <projection>19.31</projection>
+</row>
+
+<row>
+  <date>2020-12-20</date>
+  <name>Deshaun Watson</name>
+  <roster_position>QB</roster_position>
+  <game_info>IND</game_info>
+  <over_under>51.00</over_under>
+  <ppg>24.72</ppg>
+  <salary>6800</salary>
+  <value>65.76</value>
+  <projection>10.78</projection>
+</row>
+
+<row>
+  <date>2020-12-20</date>
+  <name>Patrick Mahomes</name>
+  <roster_position>QB</roster_position>
+  <game_info>NO</game_info>
+  <over_under>51.50</over_under>
+  <ppg>27.87</ppg>
+  <salary>7900</salary>
+  <value>73.25</value>
+  <projection>20.27</projection>
+</row>
+
+<row>
+  <date>2020-12-20</date>
+  <name>Russell Wilson</name>
+  <roster_position>QB</roster_position>
+  <game_info>WAS</game_info>
+  <over_under>44.50</over_under>
+  <ppg>26.21</ppg>
+  <salary>7300</salary>
+  <value>63.3</value>
+  <projection>15.60</projection>
+</row>
+
+</dkdailydfbnfl>
+"
