@@ -18,7 +18,7 @@ session  = boto3.Session()
 dynamodb = boto3.resource('dynamodb', region_name='us-east-1')
 table = dynamodb.Table('customer_total')
 
-df  = pd.read_csv(r's3://2024pipelinebucket/csv/data.csv')
+df  = pd.read_csv(r's3://csv/data.csv')
 dictf = df.to_dict(orient='records')
 #[
 #{'id': 212234, 'customer': 'harold', 'date': '07/09/2024', 'amount': 150}, 
@@ -51,7 +51,7 @@ for key, grp in groupby(sorted(dictf, key = grouper), grouper):
 #Save customer totals to S3  
 df = result
 df =pd.DataFrame(df)
-df.to_csv("s3://2024pipelinebucket/csv/data_trans_totals.csv",header=True,index=False)
+df.to_csv("s3://csv/data_trans_totals.csv",header=True,index=False)
 
 #Save customer totals to NoSQL dynamodb
 def readf(x):
