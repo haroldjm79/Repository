@@ -1,0 +1,12 @@
+
+    
+    
+    truncate table "STORAGE"."DFB"."SEED_NFL_TEAMS";
+    -- dbt seed --
+    
+            insert into storage.dfb.seed_nfl_teams (Abbrev, Team_Name) values
+            (%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s),(%s,%s)
+        
+
+;
+  

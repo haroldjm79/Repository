@@ -1,0 +1,22 @@
+version: 2
+models:
+  - name: dim_dfb_nfl_data
+    description: Daily Fantasy Buzz data
+    columns:
+      - name: date
+        description: Date of game
+        tests:
+          - not_null
+          
+      - name: name
+        description: Player name
+        tests:
+          - not_null
+          
+      - name: position
+        description: Type of the apartment / room
+        tests:
+          - accepted_values:
+              values: ['QB','RB','WR','TE','WR/FLEX','RB/FLEX','TE/FLEX','DST']
+      
+        

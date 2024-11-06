@@ -1,0 +1,1 @@
+{{ ppg_value(ref('dim_dfb_nfl_data')) }}
