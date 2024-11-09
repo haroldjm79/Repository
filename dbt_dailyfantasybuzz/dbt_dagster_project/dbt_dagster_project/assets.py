@@ -17,7 +17,7 @@ def dbtlearn_dbt_assets(context: AssetExecutionContext, dbt: DbtCliResource):
 # many dbt assets use an incremental approach to avoid
 # re-processing all data on each run
 # this approach can be modelled in dagster using partitions
-daily_partitions = DailyPartitionsDefinition(start_date="2024-11-07")
+daily_partitions = DailyPartitionsDefinition(start_date="2024-11-01")
 
 class CustomDagsterDbtTranslator(DagsterDbtTranslator):
     def get_metadata(self, dbt_resource_props: Mapping[str, Any]) -> Mapping[str, Any]:
